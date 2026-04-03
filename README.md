@@ -13,7 +13,7 @@ X (Twitter): @Hy_X01
 
 [-] Características
 -  **Descarga automática** de herramientas forenses
--  **Detección de archivos existentes
+-  **Detección de archivos existentes**
 -  **Herramientas integradas**:
   - MFT Parser (`MFTECmd`)
   - SRUM Parser (`SrumECmd`)
@@ -43,14 +43,14 @@ X (Twitter): @Hy_X01
 [Tool]
 Menú principal:
 
-═══════════════════════════════════════
-  1 - MFTParser
-  2 - SRUMParser
-  3 - WxTCmd (Windows Timeline)
-  4 - AppCompatCacheParser
-  5 - Abrir Timeline Explorer
-  6 - Salir
-═══════════════════════════════════════
+- ═══════════════════════════════════════
+-  1 - MFTParser
+-  2 - SRUMParser
+-  3 - WxTCmd (Windows Timeline)
+-  4 - AppCompatCacheParser
+-  5 - Abrir Timeline Explorer
+-  6 - Salir
+- ═══════════════════════════════════════
 
 
 ⚠️ Nota importante
